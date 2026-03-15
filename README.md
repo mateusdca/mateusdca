@@ -12,7 +12,7 @@ Backend Developer in progress focused on building scalable systems and learning 
 
 ## Tech Stack
 
-**Learning Languages**
+**Languages**
 
 Python • Java 
 
