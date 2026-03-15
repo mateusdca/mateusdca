@@ -1,12 +1,12 @@
 # Mateus Aguiar
+- 🌎 Belo Horizonte, Minas Gerais, Brazil
+## About Me
 
-Backend Developer in progress focused on building scalable systems and learning modern software engineering practices.
+Hi! I'm Mateus, a Computer Science student and an aspiring software developer.
 
-- 🌎 Brazil
-- 💻 Backend Development
-- ☁️ Cloud Computing
-- 🤖 Artificial Intelligence
-- 🔐 Cybersecurity
+I'm currently at the beginning of my journey in tech and looking for opportunities where I can learn, grow and develop my skills as a developer.
+
+My main interests are backend development, cloud computing, artificial intelligence and cybersecurity. I enjoy building projects, exploring new technologies and improving my problem-solving skills through code.
 
 ---
 
