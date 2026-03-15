@@ -22,7 +22,7 @@ Git/Github
 
 ---
 
-## Work in Progress (learnig)
+## Work in Progress (learning)
 
 **Language**
 Go
