@@ -65,12 +65,6 @@ Linux
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdca&layout=compact)
-
----
-
 ## Contact
 
 LinkedIn: www.linkedin.com/in/mateusdca/  
