@@ -24,10 +24,15 @@ Git/Github
 
 ## Work in Progress (learning)
 REST • FastAPI
+
 Vector Databases • PostgreSQL
+
 LangChain
+
 RAG
+
 AWS • Azure • GCP • Docker • Kubernetes • MLOps
+
 PyTorch • TensorFlow • Pandas
 
 ---
